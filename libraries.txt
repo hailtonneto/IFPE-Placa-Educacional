@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Keypad
+LiquidCrystal I2C
+SevSeg
+RTClib
+Adafruit ILI9341
