@@ -17,7 +17,7 @@ Esse dispositivo proporciona uma excelente oportunidade de aprendizado para inic
 
 <br>
 
-## 🌐 Autor
+## 🌐 Autores
 
 - Hailton de Melo Lima Neto
 - Lucas Chaves Sampaio Ferrer
